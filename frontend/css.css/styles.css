@@ -1,0 +1,9 @@
+.issue-item { cursor: pointer; transition: background-color 0.2s; }
+.issue-item:hover { background-color: #f8f9fa; }
+.issue-item .badge { margin-left: 5px; }
+
+.highlight-cell { background-color: #fff3cd !important; }
+.corrected-cell { background-color: #d1e7dd !important; }
+
+.table-responsive { max-height: 500px; overflow-y: auto; }
+#issues-list { max-height: 400px; overflow-y: auto; }
