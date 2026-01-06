@@ -1,0 +1,11 @@
+Data;Produto;Categoria;Quantidade;Preço Unitário;CPF;CNPJ;Vendedor;Valor Total
+Vestuário;Ana Oliveira;05/08/2025;529.982.247-25;R$ 179,70;3;R$ 59,90;Camiseta;12.345.678/0001-90
+Calçados;Bruno Costa;06/08/2025;123.456.789-09;R$ 249,90;1;R$ 249,90;Tênis Esportivo;26.327.965/0001-65
+Acessórios;Carla Ferreira;07/08/2025;529.982.247-25;R$ 279,80;2;R$ 139,90;Mochila;78.921.345/0001-73
+Vestuário;Ana Oliveira;08/08/2025;111.444.777-55;R$ 119,90;1;R$ 119,90;Calça Jeans;59.347.982/0001-20
+Vestuário;Danilo Martins;08/08/2025;674.893.546-27;R$ 199,50;5;R$ 39,90;Boné;70.423.034/0001-51
+Vestuário;Carla;08/08/2025;789.583.300-95;R$ 39,80;2;R$ 19,90;Camiseta;90.653.283/0001-09
+Vestuário;Paulo;09/08/2025;345.276.980-12;R$ 219,90;1;R$ 219,90;Jaqueta;87.652.987/0001-22
+Acessórios;Mariana;10/08/2025;236.650.992-45;R$ 89,90;1;R$ 89,90;Carteira;64.238.592/0001-14
+Vestuário;João Da Silva;11/08/2025;581.989.568-23;R$ 37,50;3;R$ 12,50;Meia;36.290.827/0001-07
+Acessórios;Carla;12/08/2025;888.567.236-45;R$ 29,90;1;R$ 29,90;Mochila;56.382.860/0001-36

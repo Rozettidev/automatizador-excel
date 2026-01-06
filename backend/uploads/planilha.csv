@@ -1,0 +1,41 @@
+﻿Data;Produto;Categoria;Quantidade;Preco Unitário;CPF;CNPJ;Vendedor;Valor Total
+02/08/2025;Camiseta;Acesórios;2;R$ 119,90;0;12.345.678/0001-90;Paulo;R$ 37,50
+03/08/2025;Camiseta;Acesórios;4 und;49.9reais;000.000.000-00;1,23457E+13;Karla Ferreira;199,5 reais
+04/08/2025;Pulseira;Calçados;5x;R$ 179,90;111.111.111-11;11.111.111/1111-11;Carla;37,5
+05/08/2025;Carteira;Acessórios;4x;R$ 299,90;0;12.345.678/0001-90;Mariana;R$ 59,80
+06/08/2025;RELÓGIO;Calçados;4x;R$ 79,90;52998224725;1,23457E+13;João Da Silva;119,8
+07/08/2025;CINTO;Vestiário ;5;119,9;0;1,23457E+13;Ana Olveira;R$ 119,80
+08/08/2025;TÊNIS ESPORTIVO;Calcados;1x;119,9;0;1,23457E+13;Ana Olveira;239,9
+09/08/2025; Meia ;Acesórios;4;R$ 119,90;12345678900;11.111.111/1111-11;Carla Ferreira;59,8
+10/08/2025; MOCHILA ;Acessórios  ;4;179,9;529.982.247-25;11.111.111/1111-11;Carla Ferreira;R$ 119,80
+11/08/2025;Relógio;Calçados ;1;R$ 79,90;111.111.111-11;1,23457E+13;João Da Silva;R$ 299,00
+12/08/2025;Jaqueta;Calssados;1;R$ 39,90;123.456.789-00;12.345.678/0001-90;Ana Olveira;R$ 37,50
+13/08/2025;Calça Jeans;Acessórios;4;29.9reais;12345678900;12.345.678/0001-90;Carla;R$ 379,70
+14/08/2025;CARTEIRA;Calçados ;4;R$ 39,90;0;1,23457E+13;Ana Oliveira;R$ 438,00
+15/08/2025;BONÉ;Acessorios ;1;299,9;12345678900;11.111.111/1111-11;Carla Ferreira;379.7
+16/08/2025; Carteira ;Vestuário;1;R$ 29,9,,9,;12345678900;11.111.111/1111-11;Carlla;R$ 199,50
+17/08/2025;JAQUETA;Calçados;3 und;79,9;11111111111;11.111.111/1111-11;Bruno Costa;R$ 89,90
+18/08/2025;Mochila;Vestuário;1;29,9;529.982.247-25;0;Marianna;159,8
+19/08/2025;Relógio;Calssados;3;R$ 49,90;000.000.000-00;0;Carla Ferreira;59.8
+20/08/2025; Jaqueta ;Acéssorios;3 und;R$ 119,90;11111111111;11.111.111/1111-11;João da silva;R$ 159,80
+21/08/2025;CALÇA SOCIAL;Acessórios;4;R$ 299,90;0;1,23457E+13;Danillo Martins;89,9 reais
+22/08/2025; Relógio ;Vestuário ;3;R$ 79,90;000.000.000-00;11.111.111/1111-11;Karla Ferreira;R$ 59,80
+23/08/2025; Pulseira ;Calçados ;1;R$ 299,90;529.982.247-25;11.111.111/1111-11;Brunno Costa;R$ 89,90
+24/08/2025;Calça Social;Calçados;2;R$ 49,90;11111111111;0;Marianna;37.5
+25/08/2025;PULSEIRA;Calçados ;3 und;R$ 49,90;529.982.247-25;0;Marianna;438,0 reais
+26/08/2025; Relógio ;Vestuário;5;R$ 39,90;123.456.789-00;11.111.111/1111-11;Mariana;R$ 119,80
+27/08/2025;CARTEIRA;Acesórios ;4x;R$ 49,90;11111111111;11.111.111/1111-11;Carla;R$ 239,90
+28/08/2025;Calça Social;Vestuário;3;49,9;52998224725;11.111.111/1111-11;João da silva;R$ 299,00
+29/08/2025; Meia ;Calcados;3;R$ 39,90;529.982.247-25;12.345.678/0001-90;João da silva;59.8
+30/08/2025;Camiseta;Vestuárioo ;3;R$ 219,90;529.982.247-25;11.111.111/1111-11;Carla;R$ 199,50
+31/08/2025;Calça Jeans;Vestuárioo;4x;R$ 119,90;529.982.247-25;12.345.678/0001-90;Ana Oliveira;R$ 379,70
+01/09/2025;Tênis Esportivo;Acessorios;2x;R$ 39,90;111.111.111-11;1,23457E+13;Carlla;59,8 reais
+02/09/2025; Relógio ;Acéssorios;4;299,9;111.111.111-11;11.111.111/1111-11;Brunno Costa;59,8 reais
+03/09/2025;Tênis Esportivo;Acéssorios;1x;R$ 39,90;529.982.247-25;1,23457E+13;Brunno Costa;R$ 379,70
+04/09/2025; Mochila ;Vestuárioo ;5;R$ 29,90;0;1,23457E+13;João Da Silva;37,5
+05/09/2025;TÊNIS ESPORTIVO;Vestuario;5;R$ 219,90;11111111111;12.345.678/0001-90;Carla Ferreira;239,9
+06/09/2025; Jaqueta ;Acessorios ;1;R$ 39,90;529.982.247-25;11.111.111/1111-11;Danilo Martins;R$ 438,00
+07/09/2025;Calça Jeans;Acessórios ;5;R$ 49,90;12345678900;11.111.111/1111-11;Danilo Martins;199,5 reais
+08/09/2025; Meia ;Vestuárioo;1;R$ 299,90;52998224725;12.345.678/0001-90;Mariana;37,5 reais
+09/09/2025;Boné;Vestuário;3;R$ 79,90;529.982.247-25;11.111.111/1111-11;Danilo Martins;438
+10/09/2025; Carteira ;Calçãdos;3;79.9reais;111.111.111-11;11.111.111/1111-11;João Da Silva;R$ 299,00

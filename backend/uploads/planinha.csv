@@ -1,0 +1,31 @@
+Data;Produto;Categoria;Quantidade;Preço Unitário;CPF;CNPJ;Vendedor;Valor Total
+12/05/2025;Camiseta;Vestuário;3;59,90;529.982.247-25;12.345.678/0001-90;Ana Oliveira;179,70
+13/05/2025;Tênis;Calçados;1;249,90;123.456.789-09;26.327.965/0001-65;Bruno Costa;249,90
+14/05/2025;Mochila;Acessórios;2;139,90;529.982.247-25;78.921.345/0001-73;Carla Ferreira;279,80
+15/05/2025;Calça Jeans;Vestuário;1;119,90;111.444.777-55;59.347.982/0001-20;Ana Oliveira;119,90
+16/05/2025;Boné;Vestuário;5;39,90;674.893.546-27;70.423.034/0001-51;Danilo Martins;199,50
+17/05/2025;Camiseta;Vestuário;2;19,90;789.583.300-95;90.653.283/0001-09;Carla Souza;39,80
+18/05/2025;Jaqueta;Vestuário;1;219,90;345.276.980-12;87.652.987/0001-22;Paulo Almeida;219,90
+19/05/2025;Carteira;Acessórios;1;89,90;236.650.992-45;64.238.592/0001-14;Mariana Santos;89,90
+20/05/2025;Meia;Vestuário;3;12,50;581.989.568-23;36.290.827/0001-07;João da Silva;37,50
+21/05/2025;Óculos;Acessórios;1;129,90;888.567.236-45;56.382.860/0001-36;Carla Souza;129,90
+22/05/2025;Camiseta;Vestuário;2;59,90;000.000.000-00;12.345.678/0001-90;Vendedor Inválido;119,80
+23/05/2025;Tênis;Calçados;2;249,90;12345678909;26.327.965/0001-65;Bruno Costa;499,80
+24/05/2025;Bolsa;Acessórios;1;not_a_price;529.982.247-25;78.921.345/0001-73;Carla Ferreira;279,80
+25/05/2025;Shorts;Vestuário;4;89,90;111.444.777-55;59.347.982/0001-20;Ana Oliveira;359,60
+26/05/2025;Relógio;Acessórios;1;350,00;674.893.546-27;70.423.034/0001-51;Danilo Martins;350,00
+27/05/2025;Sandália;Calçados;1;149,90;cpf_invalido;90.653.283/0001-09;Paula Lima;149,90
+28/05/2025;Casaco;Vestuário;2;299,90;345.276.980-12;87.652.987/0001-22;Paulo Almeida;599,80
+29/05/2025;Pulseira;Acessórios;1;79,90;236.650.992-45;64.238.592/0001-14;Mariana Santos;79,90
+30/05/2025;Chapéu;Vestuário;2;65,00;581.989.568-23;36.290.827/0001-07;João da Silva;130,00
+31/05/2025;Carteira;Acessórios;1;89,90;888.567.236-45;56.382.860/0001-36;Carla Souza;89,90
+01/06/2025;Meia;Vestuário;10;12,50;00000000000;12.345.678/0001-90;Ana Oliveira;125,00
+02/06/2025;Camisa Polo;Vestuário;1;129,90;123.456.789-09;26.327.965/0001-65;Bruno Costa;129,90
+03/06/2025;Bolsa;Acessórios;2;199,90;529.982.247-25;78.921.345/0001-73;Carla Ferreira;399,80
+04/06/2025;Tênis;Calçados;1;249,90;111.444.777-55;59.347.982/0001-20;Ana Oliveira;249,90
+05/06/2025;Cinto;Acessórios;1;59,90;674.893.546-27;70.423.034/0001-51;Danilo Martins;59,90
+06/06/2025;Calça Jeans;Vestuário;2;119,90;789.583.300-95;90.653.283/0001-09;Carla Souza;239,80
+07/06/2025;Tênis Corrida;Calçados;1;349,90;345.276.980-12;87.652.987/0001-22;Paulo Almeida;349,90
+08/06/2025;Relógio;Acessórios;1;450,00;236.650.992-45;64.238.592/0001-14;Mariana Santos;450,00
+09/06/2025;Camiseta;Vestuário;5;59,90;cpf_invalido;36.290.827/0001-07;João da Silva;299,50
+10/06/2025;Chinelo;Calçados;3;39,90;888.567.236-45;56.382.860/0001-36;Carla Souza;119,70

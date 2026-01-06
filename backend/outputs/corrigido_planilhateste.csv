@@ -1,0 +1,42 @@
+﻿data;produto;categoria;quantidade;preco_unitario;cpf;cnpj;vendedor;valor_total
+01/08/2025;Camiseta;Vestuário;2.00;119.90;529.982.247-25;11.222.333/0001-81;Paulo;239.80
+02/08/2025;Tênis Esportivo;Calçados;1.00;399.90;153.509.460-56;Inválido;Karla Ferreira;399.90
+03/08/2025;Pulseira;Acessórios;5.00;29.90;111.444.777-35;12.345.678/0001-95;Carla;149.50
+04/08/2025;Carteira;Acessórios;3.00;89.90;Inválido;Inválido;Mariana;269.70
+05/08/2025;Relógio;Calçados;4.00;79.90;390.533.447-05;Inválido;João Da Silva;319.60
+06/08/2025;Cinto;Vestuário;5.00;39.90;987.654.321-00;Inválido;Ana Oliveira;199.50
+07/08/2025;Jaqueta;Vestuário;1.00;239.90;111.222.333-96;Inválido;Ana Oliveira;239.90
+08/08/2025;Meia;Acessórios;6.00;9.90;Inválido;Inválido;Carla Ferreira;59.40
+09/08/2025;Mochila;Acessórios;2.00;259.90;Inválido;Inválido;Carla Ferreira;519.80
+10/08/2025;Relógio;Calçados;1.00;119.90;Inválido;Inválido;João Da Silva;119.90
+11/08/2025;Calça Jeans;Vestuário;2.00;159.90;Inválido;Inválido;Ana Oliveira;319.80
+12/08/2025;Carteira;Acessórios;1.00;49.90;529.982.247-25;11.222.333/0001-81;Ana Oliveira;49.90
+13/08/2025;Boné;Acessórios;3.00;29.90;153.509.460-56;Inválido;Carla Ferreira;89.70
+14/08/2025;Camiseta;Vestuário;1.00;99.90;111.444.777-35;12.345.678/0001-95;Carla;99.90
+15/08/2025;Jaqueta;Vestuário;1.00;279.90;Inválido;Inválido;Bruno Costa;279.90
+16/08/2025;Mochila;Acessórios;1.00;299.90;390.533.447-05;Inválido;Mariana;299.90
+17/08/2025;Relógio;Calçados;2.00;149.90;987.654.321-00;Inválido;Carla Ferreira;299.80
+18/08/2025;Pulseira;Acessórios;3.00;19.90;111.222.333-96;Inválido;João Da Silva;59.70
+19/08/2025;Calça Social;Vestuário;3.00;219.90;Inválido;Inválido;Karla Ferreira;659.70
+20/08/2025;Carteira;Acessórios;2.00;59.90;Inválido;Inválido;Bruno Costa;119.80
+21/08/2025;Boné;Acessórios;4.00;24.90;Inválido;Inválido;Mariana;99.60
+22/08/2025;Relógio;Calçados;1.00;199.90;Inválido;Inválido;Mariana;199.90
+23/08/2025;Camiseta;Vestuário;2.00;89.90;529.982.247-25;11.222.333/0001-81;Carla;179.80
+24/08/2025;Tênis Esportivo;Calçados;1.00;459.90;153.509.460-56;Inválido;João Da Silva;459.90
+25/08/2025;Calça Jeans;Vestuário;1.00;179.90;111.444.777-35;12.345.678/0001-95;Ana Oliveira;179.90
+26/08/2025;Meia;Acessórios;8.00;8.90;Inválido;Inválido;Paulo;71.20
+27/08/2025;Jaqueta;Vestuário;1.00;299.90;390.533.447-05;Inválido;Karla Ferreira;299.90
+28/08/2025;Pulseira;Acessórios;6.00;22.90;987.654.321-00;Inválido;Carla Ferreira;137.40
+29/08/2025;Cinto;Vestuário;4.00;34.90;111.222.333-96;Inválido;Ana Oliveira;139.60
+30/08/2025;Carteira;Acessórios;2.00;69.90;Inválido;Inválido;Bruno Costa;139.80
+31/08/2025;Camiseta;Vestuário;3.00;109.90;Inválido;Inválido;Mariana;329.70
+01/09/2025;Mochila;Acessórios;1.00;319.90;Inválido;Inválido;Carla Ferreira;319.90
+02/09/2025;Relógio;Acessórios;1.00;139.90;Inválido;Inválido;Bruno Costa;139.90
+03/09/2025;Calça Social;Vestuário;2.00;239.90;529.982.247-25;11.222.333/0001-81;João Da Silva;479.80
+04/09/2025;Tênis Esportivo;Calçados;1.00;499.90;153.509.460-56;Inválido;Carla;499.90
+05/09/2025;Camiseta;Vestuário;1.00;89.90;111.444.777-35;12.345.678/0001-95;Ana Oliveira;89.90
+06/09/2025;Pulseira;Acessórios;5.00;18.90;Inválido;Inválido;Paulo;94.50
+07/09/2025;Carteira;Acessórios;1.00;59.90;390.533.447-05;Inválido;Karla Ferreira;59.90
+08/09/2025;Calça Jeans;Vestuário;2.00;169.90;987.654.321-00;Inválido;Carla Ferreira;339.80
+09/09/2025;Boné;Acessórios;3.00;34.90;111.222.333-96;Inválido;João Da Silva;104.70
+10/09/2025;Mochila;Acessórios;1.00;289.90;Inválido;Inválido;Mariana;289.90

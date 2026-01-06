@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: radial-gradient(circle at top, #0a0a0f, #000);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  color: #eaeaea;
+  overflow: hidden;
+}
+
+/* === Container === */
+.login-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+/* === Box principal === */
+.login-box {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(140, 100, 255, 0.2);
+  padding: 50px 60px;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(157, 86, 255, 0.2);
+  backdrop-filter: blur(10px);
+  animation: fadeIn 1.5s ease-out;
+}
+
+.logo {
+  width: 100px;
+  margin-bottom: 15px;
+  filter: drop-shadow(0 0 15px rgba(130, 43, 231, 0.6));
+}
+
+h1 {
+  font-size: 1.2rem;
+  letter-spacing: 3px;
+  color: #d9c7ff;
+  text-shadow: 0 0 20px rgba(130, 43, 231, 0.5);
+  margin-bottom: 30px;
+}
+
+/* === Inputs === */
+input {
+  display: block;
+  width: 100%;
+  padding: 10px 14px;
+  margin: 10px 0;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(157, 86, 255, 0.3);
+  border-radius: 10px;
+  color: #fff;
+  font-size: 0.9rem;
+  outline: none;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+input:focus {
+  border-color: #a46bff;
+  box-shadow: 0 0 10px rgba(157, 86, 255, 0.4);
+}
+
+/* === Botão === */
+button {
+  width: 100%;
+  margin-top: 20px;
+  background: linear-gradient(90deg, #822be7, #ad40d5);
+  border: none;
+  border-radius: 10px;
+  padding: 12px;
+  color: #fff;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  font-weight: 500;
+}
+
+button:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 15px rgba(173, 64, 213, 0.6);
+}
+
+.disclaimer {
+  margin-top: 15px;
+  color: #8e8e8e;
+  font-size: 0.8rem;
+}
+
+/* === Animação de entrada === */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,79 @@
+/* === ZYNTRA INITIALIZATION SCREEN === */
+
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: #050505;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Fundo com textura sutil e luz roxa */
+body::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(rgba(130, 43, 231, 0.12) 1px, transparent 1px);
+  background-size: 30px 30px;
+  opacity: 0.25;
+}
+
+/* Container da tela */
+.boot-screen {
+  text-align: center;
+  z-index: 2;
+  animation: fadeIn 1.5s ease-in-out forwards;
+}
+
+/* Logo da Zyntra */
+.logo {
+  width: 150px;
+  margin-bottom: 25px;
+  opacity: 0;
+  animation: logoAppear 2s ease-in-out forwards, logoGlow 3s ease-in-out infinite alternate;
+}
+
+/* Nome principal */
+.title {
+  font-size: 2.3rem;
+  letter-spacing: 6px;
+  color: #d9c7ff;
+  text-shadow: 0 0 20px rgba(157, 86, 255, 0.8);
+  margin: 0;
+}
+
+/* Subtítulo (texto carregando) */
+.subtitle {
+  color: #9f8fd6;
+  font-size: 1rem;
+  margin-top: 8px;
+  letter-spacing: 1px;
+  animation: blink 2s infinite;
+}
+
+/* === Animações === */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes logoAppear {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes logoGlow {
+  from { filter: drop-shadow(0 0 5px rgba(130, 43, 231, 0.5)); }
+  to { filter: drop-shadow(0 0 15px rgba(173, 64, 213, 1)); }
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
